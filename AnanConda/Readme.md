@@ -1,6 +1,6 @@
 ### AnaConda 활용 가상환경
 
-
+#### 출처: https://teddylee777.github.io/python/Python-%EA%B0%80%EC%83%81%ED%99%98%EA%B2%BD-%EC%84%A4%EC%A0%95%ED%95%98%EA%B8%B0
 #### 1. Anaconda3 설치
 ###### 링크 : https://www.anaconda.com/products/individual#windows
 
