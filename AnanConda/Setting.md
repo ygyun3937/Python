@@ -13,3 +13,8 @@
        3. 가상환경 종료
           deactivate
 ######    ![image](https://user-images.githubusercontent.com/74608323/111559617-35c74380-87d4-11eb-9b2c-b746cc9db534.png)
+
+
+### MySQL 패키지(Client) 설치
+#### 출처 : https://teddylee777.github.io/python/Python-MySQL-Package-%EC%84%A4%EC%B9%98%ED%95%98%EA%B8%B0
+##### - DB에 Client로 붙여야 되는 경우 필요한 Package
