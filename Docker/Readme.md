@@ -31,7 +31,7 @@
 ##### > https://hub.docker.com/editions/community/docker-ce-desktop-windows/ -> Get Docker
 ##### ![image](https://user-images.githubusercontent.com/74608323/111579630-b187b700-87f9-11eb-8987-7a533aeecd27.png)
 ##### > 설치 파일 실행
-##### > ![image](https://user-images.githubusercontent.com/74608323/111579766-f0b60800-87f9-11eb-95dd-d5552a1e2bad.png)
+##### > ![image](https://user-images.githubusercontent.com/74608323/111581455-9b2f2a80-87fc-11eb-9910-14535ece16b6.png)
 
 ##### 3) 설치 완료 되면 재부팅
 
