@@ -16,5 +16,23 @@
 #####     - 단일 패키지 설치
             conda install pandas
 #####     - 2개 이상 패키지 설치
-######    ex) pandas, numpy, tensorflow 설치
-            conda install pandas numpy tensorflow     
+#####       ex) pandas, numpy, tensorflow 설치
+            conda install pandas numpy tensorflow
+#####     - 단일 패키지 업데이트
+            conda update pandas
+#####     - 설치된 패키지 모두 업데이트
+            conda update --all           
+#####     - 패키지 제거
+            conda remove pandas
+#####     - 설치된 패키지 검색
+            conda search '*pandas*'            
+#####     - 가상환경 생성
+            conda create -n my_python_env
+#####     - 가상환경 생성하면서 패키지 설치 
+            conda create -n my_python_env pandas tensorflow            
+#####     - python 설치
+            conda create -n my_python_env python=3.4
+#####     - 가상환경 시작/종료
+            activate my_python_env      //시작
+            deactivate                  //종료
+            
