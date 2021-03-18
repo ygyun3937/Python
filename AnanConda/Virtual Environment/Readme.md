@@ -4,12 +4,19 @@
 ### 가상환경이란?
 ##### - 가상의 개발 환경
 
-#### 1. 필요한이유
+#
+#### 1. 필요한 이유
 ##### - python 버전 관리
 ##### - Package 충돌 방지
 
+#
 #### 2. 설치
 ##### 1) Anaconda를 활용한 가상환경 설치
 #####   ■ 명령어
 #####     - 설치된 패키지 목록 보기
-#####      ->  conda list
+            conda list
+#####     - 단일 패키지 설치
+            conda install pandas
+#####     - 2개 이상 패키지 설치
+######    ex) pandas, numpy, tensorflow 설치
+            conda install pandas numpy tensorflow     
