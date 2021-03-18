@@ -1,5 +1,4 @@
 ###### 출처 : https://goddaehee.tistory.com/251
-#
 ### Window10 Docker 설치
 
 #
@@ -46,6 +45,16 @@
 ##### 7)CMD -> docker -v //설치된 도커 버전 확인
 ##### ![image](https://user-images.githubusercontent.com/74608323/111581825-522ba600-87fd-11eb-8b5a-9e203870e2bb.png)
 
+#
+#### 4. GUI 환경 설치(Kitematic)
+##### 1) 다운로드 -> 실행 (별도의 설치 불필요)
+##### 설치 링크 : https://github.com/docker/kitematic/releases
+
+##### 2) 실행 -> 로그인 (기존에 가입한 Docker ID)
+##### ![image](https://user-images.githubusercontent.com/74608323/111582434-278e1d00-87fe-11eb-9b1c-9e8d2ccb3a9c.png)
+
+##### 3) 도커 사용 준비 완료
+##### ![image](https://user-images.githubusercontent.com/74608323/111582535-4ee4ea00-87fe-11eb-924f-0dc5afe70441.png)
 
 
 
