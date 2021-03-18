@@ -27,7 +27,10 @@
 ##### > 작업관리자를 통해 확인, 비활성화 상태인 경우 BIOS에서 활성화시켜줘야한다.
 ##### ![image](https://user-images.githubusercontent.com/74608323/111575748-68803480-87f2-11eb-981f-2fb4666ca57c.png)
 
-
+##### 2) 설치 전 환경설정
+##### > Docker를 사용하기 위해서 가상화 기술인 Hyper-V를 활성화 해야한다.
+##### > 작업관리자를 통해 확인, 비활성화 상태인 경우 BIOS에서 활성화시켜줘야한다.
+##### ![image](https://user-images.githubusercontent.com/74608323/111575748-68803480-87f2-11eb-981f-2fb4666ca57c.png)
 
 
 
