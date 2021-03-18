@@ -28,8 +28,11 @@
 ##### ![image](https://user-images.githubusercontent.com/74608323/111575748-68803480-87f2-11eb-981f-2fb4666ca57c.png)
 
 ##### 2) 도커 설치파일 다운로드 및 설치
-##### > https://hub.docker.com/editions/community/docker-ce-desktop-windows/ > Get Docker
+##### > https://hub.docker.com/editions/community/docker-ce-desktop-windows/ -> Get Docker
 ##### ![image](https://user-images.githubusercontent.com/74608323/111579630-b187b700-87f9-11eb-8987-7a533aeecd27.png)
+##### > 설치 파일 실행
+##### > ![image](https://user-images.githubusercontent.com/74608323/111579766-f0b60800-87f9-11eb-95dd-d5552a1e2bad.png)
+
 
 
 
