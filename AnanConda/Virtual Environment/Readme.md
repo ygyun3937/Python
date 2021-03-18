@@ -35,4 +35,13 @@
 #####     - 가상환경 시작/종료
             activate my_python_env      //시작
             deactivate                  //종료
-            
+#####     - 가상환경 내보내기(export) / 불러오기 / 리스트 / 제거하기
+######    --> 가상환경 .yaml 파일로 내보내서 저장을 할 수도 있고, 활용하여 새로운 가상환경을 만들수 있다.
+######    1) .yaml 파일로 저장
+          conda env export > my_python_env.yaml
+######    2) .yaml 파일로 새로운 가상환경 만들기
+          conda env create -f my_python_env.yaml
+######    3) 가상환경 리스트 출력
+          conda env list
+######    4) 가상환경 제거하기
+          conda env remove -n my_python_env
