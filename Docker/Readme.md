@@ -33,7 +33,15 @@
 ##### > 설치 파일 실행
 ##### > ![image](https://user-images.githubusercontent.com/74608323/111579766-f0b60800-87f9-11eb-95dd-d5552a1e2bad.png)
 
+##### 3) 설치 완료 되면 재부팅
 
+##### 4) Docker 실행
+##### 5-1) 오류메시지 발생시
+##### ![image](https://user-images.githubusercontent.com/74608323/111581091-fe6c8d00-87fb-11eb-86ac-326dadb56ed9.png)
+##### > 해당 링크에서 관련 파일 설치 재실행
+
+##### 5)회원가입
+##### 6)이메인증
 
 
 
