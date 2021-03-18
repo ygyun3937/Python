@@ -25,7 +25,7 @@
 ##### 1) 설치 전 환경설정
 ##### > Docker를 사용하기 위해서 가상화 기술인 Hyper-V를 활성화 해야한다.
 ##### > 작업관리자를 통해 확인, 비활성화 상태인 경우 BIOS에서 활성화시켜줘야한다.
-##### ![image](https://user-images.githubusercontent.com/74608323/111575748-68803480-87f2-11eb-981f-2fb4666ca57c.png)
+##### ![image](https://user-images.githubusercontent.com/74608323/111581547-c9146f00-87fc-11eb-8f43-12c89bbe0441.png)
 
 ##### 2) 도커 설치파일 다운로드 및 설치
 ##### > https://hub.docker.com/editions/community/docker-ce-desktop-windows/ -> Get Docker
