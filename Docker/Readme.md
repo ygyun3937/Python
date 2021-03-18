@@ -37,7 +37,7 @@
 
 ##### 4) Docker 실행
 ##### 5-1) 오류메시지 발생시
-##### ![image](https://user-images.githubusercontent.com/74608323/111581091-fe6c8d00-87fb-11eb-86ac-326dadb56ed9.png)
+##### ![image](https://user-images.githubusercontent.com/74608323/111581370-7935a800-87fc-11eb-956b-5673e220798c.png)
 ##### > 해당 링크에서 관련 파일 설치 재실행
 
 ##### 5)회원가입
