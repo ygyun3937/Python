@@ -17,4 +17,5 @@
 #####  > Volumes 탭 >> LOCAL FOLDER 설정
 #####  ![image](https://user-images.githubusercontent.com/74608323/111585802-32977c00-8803-11eb-9d2a-e3277788ac35.png)
 #####  > Settings >> Hostname >> Ports >> 포트 확인 또는 변경
-#####  
+#####  ![image](https://user-images.githubusercontent.com/74608323/111586970-ec431c80-8804-11eb-9f00-5c8790f2724c.png)
+
